@@ -1,0 +1,3 @@
+# Sessões de feature são rascunho de trabalho (o $iniciar-projeto pergunta se o time quer versionar)
+docs/sessions/*
+!docs/sessions/README.md

@@ -1,0 +1,13 @@
+# Origem e licença
+
+- Repositório: https://github.com/trailofbits/skills
+- Commit: 540111a52a2b76009fb279fed2b8f5d3eaa97adc
+- Caminho original: plugins/insecure-defaults/skills/insecure-defaults
+- Autor: Trail of Bits
+- Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Esta pasta é uma adaptação e é distribuída sob a mesma licença CC BY-SA 4.0.
+
+## Alterações em relação ao original
+
+- Removido o campo `allowed-tools` do cabeçalho do SKILL.md (específico do Claude Code).
